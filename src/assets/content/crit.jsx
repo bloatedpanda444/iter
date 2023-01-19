@@ -33,10 +33,8 @@ export const crit3 = {
   leftSubtitle: "“Preferences is not important enough for the navbar”",
   leftText: "We made a new Settings page that includes Preferences and other important options and information",
   img: {
-    // TODO:  resize image
     src: img_crit3,
     alt: "Settings/Preferences revised Lofi",
-    // we can resize images using this id tag in App.css
     id: "crit3"
   }
 };
